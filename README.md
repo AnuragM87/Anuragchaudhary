@@ -1,11 +1,11 @@
-Hey ! Welcome to my Portpolio
+#Hey ! Welcome to my Portfolio
 please visit and give your valuable suggestions.
 If you found me usefull for certain job please let me know
 @anuragchaudharym87@gmail.com
 
 For now i know:
 
-JavaScript
-NodeJs
-Repl.it
-CHALK
+1.JavaScript
+2.NodeJs
+3.Repl.it
+4.CHALK
